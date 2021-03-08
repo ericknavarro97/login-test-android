@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094228467641",
+    "firebase_url": "https://autenticacion-test-21774.firebaseio.com",
+    "project_id": "autenticacion-test-21774",
+    "storage_bucket": "autenticacion-test-21774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094228467641:android:24c589a0945fc5ad3e2068",
+        "android_client_info": {
+          "package_name": "com.onnetsolution.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094228467641-59rn1mp6eu5bvbc3jifl6vpra62p9k9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8XjYw95-Tn03Ft9ZRxcyZWVOqv9ePvAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094228467641-59rn1mp6eu5bvbc3jifl6vpra62p9k9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
